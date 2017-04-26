@@ -7,7 +7,7 @@ import Search from './Search.js'
 class App extends Component {
 
   render() {
-    return (<div> 
+    return (<div>
       <ContactList/>
     </div>)
   }
