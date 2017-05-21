@@ -6,9 +6,13 @@ import Search from './Search.js'
 
 class App extends Component {
 
+  // constructor() {
+  //
+  // };
+
   render() {
     return (<div>
-      <ContactList/>
+      <ContactList />
     </div>)
   }
 
