@@ -26,7 +26,7 @@ class Search extends Component {
                 return ( <ContactTile Key={index} Contact={contact}/> );
               })
             })
-          })}
+          }
         </ul>
       </div>
   	)
